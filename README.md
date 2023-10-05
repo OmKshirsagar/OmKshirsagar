@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmKshirsagar
 - 👀 I’m interested in React, NextJS, Python, Java Spring
-- 🏫 I’m currently learning BScIT in Jai Hind College, Mumbai.
+- 🏫 Graduate in BScIT from Jai Hind College, Mumbai (University Of Mumbai).
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 You can reach me at kshirsagar.om38018@gmail.com
 
